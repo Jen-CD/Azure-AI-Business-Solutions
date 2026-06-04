@@ -205,7 +205,8 @@ By completing the above project , I've gained the following skills:
 - Agentic AI Principles (Conceptual): Illustrating how AI can move from analysis to suggesting actionable insights.
 
 ## About Me
-I'm a **Product Manager** transitioning into the AI space. I hold:
+
+I'm a Product and Alliance Manager with 15+ years in cloud, telecoms, and enterprise technology, applying Azure AI tools to real business use cases. I hold:
 - AZ-900 Certified (Azure Fundamentals)
 - AI-900 Certified (Azure AI Fundamentals)
 - PRINCE2 Agile Practitioner
