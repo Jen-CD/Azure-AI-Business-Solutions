@@ -1,1 +1,1 @@
-# Azure-AI-for-Business-Demos
+# Azure AI Business Solutions
